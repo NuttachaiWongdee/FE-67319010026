@@ -1,0 +1,44 @@
+.input1{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.input2{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.input3{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.input4{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.input5{
+    background-color: darkred;
+}
+.input6{
+    background-color: darkred;
+}
+.input7{
+    background-color: deeppink;
+}
+.input8{
+    background-color: yellow;
+}
+.input9{
+    background-color: blue;
+}
+.input10{
+    background-color: darkviolet;
+}
+.input11{
+    background-color: black;
+    style color: #FFFFFF;>ดำ
+}
+.input12{
+    background-color: crimson;
+}
+body{
+    background-image: url(a.jpg);
+}
